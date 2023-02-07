@@ -1,4 +1,4 @@
-**LARACREAM ECOMMERCE WEBSITE**
+**LARACREAM WEBSITE**
 ---
 A web application that implement the e-commerce concept that used to sell the ice cream
 
