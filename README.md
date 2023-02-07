@@ -1,3 +1,7 @@
+**LARACREAM ECOMMERCE WEBSITE**
+---
+A web application that implement the e-commerce concept that used to sell the ice cream
+
 **INTERFACE DESIGN**
 ---
 <img width="90%" alt="Screenshot 2023-02-06 at 6 29 57 PM" src="https://user-images.githubusercontent.com/77760824/217159551-a7601ac3-cac9-4fb3-8376-e08c7384dbd8.png">
